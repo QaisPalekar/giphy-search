@@ -1,0 +1,6 @@
+.gif-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 60vw;
+    margin: auto;
+}

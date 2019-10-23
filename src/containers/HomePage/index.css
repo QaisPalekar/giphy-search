@@ -1,0 +1,36 @@
+.search {
+    padding: 15px 0px 10px;
+}
+
+.search__input {
+    height: 27px;
+    width: 500px;
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 0px 5px;
+}
+
+.search__button {
+    width: 100px;
+    border-radius: 5px;
+    height: 35px;
+    background: black;
+    color: white;
+    font-size: 16px;
+    border: none;
+}
+
+.gif-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    grid-gap: 10px;
+}
+
+.title {
+    grid-column: 1/-1;
+    font-weight: bold;
+    font-size: 18;
+    margin: 10px 0px 10px;
+}
