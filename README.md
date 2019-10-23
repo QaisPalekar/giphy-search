@@ -1,3 +1,3 @@
 # giphy-search
 
-replace the api_key in api.js file
+replace the api_key in src/api.js file
